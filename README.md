@@ -15,10 +15,10 @@ Thank you for reviewing my submission for the Backend Developer technical test. 
 ## Usage Demonstrations
 Below are GIFs showcasing the usage of the `code_challenge` and `problem_solutions` programs in action:
 
-### Code Challenge (To-Do List Service)
+### Code Challenge VIDEO (To-Do List Service)
 ![To-Do List Service Demo](Solutions/videos_usecases/long_videos/code_challenge.gif)
 
-### Problem Solution (Array Scoring)
+### Problem Solution VIDEO (Array Scoring)
 ![Array Scoring Demo](Solutions/videos_usecases/long_videos/problem_resolution.gif)
 
 ## How to Run the Solutions
